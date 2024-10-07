@@ -1,6 +1,10 @@
-# 🤖 Mastering the Theory of Computation
+# 🤖 Mastering the Theory of Computation 
 
-Welcome to the **COMP218 Weekly Summary Sheets** repository, your ultimate guide to surviving and thriving in the wonderful (and occasionally mind-bending) world of **Introduction to the Theory of Computation**! 
+Welcome to the **COMP218 Weekly Summary Sheets** repository! 🎉 This is your **one-stop resource** for mastering the intricacies of the **Introduction to the Theory of Computation** at **the University of Liverpool**. 
+
+These summaries are carefully crafted to follow the **official course structure** of **COMP218**, week by week, so you’ll always know what’s important at each stage of the semester. From **automata theory** to **Turing machines** and beyond, I’ve got you covered! The aim here is to **simplify complex concepts** and give you the key takeaways you’ll need to ace the course and exams. 💡
+
+If you find these summaries helpful, don’t forget to give the repository a ⭐️ to show your support — every little bit of encouragement helps!
 
 ### 📚 What's Inside?
 
@@ -32,4 +36,3 @@ If you spot any errors (hey, we’re all human!) or have suggestions, feel free 
 **Stay computationally curious, and may the automata be ever in your favor!**
 
 *Happy learning, and good luck with COMP218!* 🎉
-
